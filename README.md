@@ -60,7 +60,7 @@ To run Quick Cart locally, follow these steps:
 
 
 
-# Quick Cart
+# Badges
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
